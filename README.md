@@ -9,12 +9,12 @@ GameZone is a web-based platform that hosts a collection of six different games,
 - User Interface:
 
   - Home Page: A welcoming home page with links or thumbnails for each of the six games.
-  - Responsive Design: The platform is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
+  - Responsive Design: The platform is responsive, ensuring a seamless experience on both desktop and mobile devices.
 
 - Game Selection:
 
   - Game Thumbnails: Each game is represented by a clickable thumbnail with a brief description.
-  - Game Details: Hovering over or clicking on a thumbnail provides more details about the game, including instructions and objectives.
+  - Game Details: Each card provides detail about the game.
   
 - Games Included:
   
