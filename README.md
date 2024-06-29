@@ -37,6 +37,10 @@ GameZone is a web-based platform that hosts a collection of six different games,
 2. Open the `index.html` file in your web browser.
 3. Start playing games!
 
+## Link
+- Have fun: https://parasgarg2k.github.io/GameZone/
+- Github link: https://github.com/ParasGarg2k/GameZone
+
 ## Author
 
 - Paras Garg
