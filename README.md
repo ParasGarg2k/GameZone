@@ -2,7 +2,7 @@
 
 ## Overview
 
-GameZone is a web-based platform that hosts a collection of six different games, providing users with an engaging and interactive experience. The games are built using HTML, CSS, and JavaScript, ensuring compatibility across various web browsers. The platform features a clean and intuitive interface, making it easy for users to navigate and play the games.
+GameZone is a web-based platform that hosts a collection of eight different games, providing users with an engaging and interactive experience. The games are built using HTML, CSS, and JavaScript, ensuring compatibility across various web browsers. The platform features a clean and intuitive interface, making it easy for users to navigate and play the games.
 
 ## Features
 
@@ -20,10 +20,12 @@ GameZone is a web-based platform that hosts a collection of six different games,
   
   - Tic-Tac-Toe: A classic two-player game where players take turns marking spaces in a 3x3 grid.
   - 2048: A sliding tile puzzle game where the player combines tiles with the same number to reach the 2048 tile.
-  - Maze: A puzzle game where the player navigates through a maze to reach the goal.
   - Dino: A simple, endless runner game where the player controls a dinosaur to jump over obstacles.
   - Rock-Paper-Scissors: A classic hand game where the player competes against the computer.
   - Sudoku: A logic-based number placement puzzle where the player fills a 9x9 grid with numbers.
+  - Snake game: A classic arcade game where players control a snake that grows longer as it eats food items on the screen.
+  - Hangman: A classic word-guessing game where players try to guess a secret word by suggesting letters.
+  - Three number: The Number Will Rotate. You Have To Click in the Number and Make all the Three number Same.
 
 ## Technologies Used
 
