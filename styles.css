@@ -47,7 +47,7 @@ a {
   display:flex;
   align-items: center;
   border:6px solid;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   border-image: linear-gradient(#0d6ecf, #e315d2,#56e743) 35;
   /* justify-content: space-evenly; */
 }
@@ -106,12 +106,12 @@ a {
 .container {
   display: grid;
   place-items: center;
-  margin-inline: 1.5rem;
+  margin-inline: 1 rem;
 }
 
 .card__container, .card__article {
   display: grid;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 .card__container {
   padding-block: 4.5rem;
@@ -145,8 +145,8 @@ img {
   text-align: center;
 }
 .card__img {
-  width: 140px;
-  height : 150px;
+  width: 240px;
+  height : 200px;
   border-radius: 20%;
   margin-bottom: 1.99rem;
 }
@@ -193,15 +193,15 @@ img {
   --hue-2: 150;
 }
 .card__scale-1 {
-  width: 148px;
-  height: 148px;
+  width: 260px;
+  height: 230px;
   background: linear-gradient(140deg, hsl(var(--hue-1), 70%, 50%) 3%, hsl(var(--hue-2), 95%, 45%) 100%);
   border-radius: 2rem;
   top: 4rem;
 }
 .card__scale-2 {
-  width: 116px;
-  height: 116px;
+  width: 216px;
+  height: 216px;
   background: var(--container-color);
   border-radius: 1.5rem;
   top: 5rem;
@@ -249,17 +249,17 @@ img {
 /* For large devices */
 @media screen and (min-width: 1120px) {
   .container {
-    height: 100vh;
+    height: 80vh;
   }
   .card__container {
-    grid-template-columns: repeat(3, 345px);
+    grid-template-columns: repeat(4, 340px);
   }
   .card__article {
     padding: 4.5rem 2rem 3.5rem;
   }
 }
 .footpanel4{
-  margin-top: 500px;
+  margin-top: 600px;
   background-color: #0f1111;
   color:white;
   height:100px;
